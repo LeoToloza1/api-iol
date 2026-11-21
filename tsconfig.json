@@ -1,0 +1,1 @@
+{"compilerOptions":{"allowImportingTsExtensions":true,"noEmit":true,"forceConsistentCasingInFileNames":true,"lib":["ESNext"],"module":"ESNext","moduleResolution":"bundler","noUncheckedIndexedAccess":false,"skipLibCheck":true,"strict":true,"target":"ESNext","types":["bun"],"verbatimModuleSyntax":true},"include":["src","tests"]}
